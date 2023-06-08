@@ -1,0 +1,29 @@
+h1 {
+  color: black;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+}
+p{
+    align-self: center;
+}
+.btn {
+  width: 60%;
+  border-width: 0px;
+  border-radius: 4px;
+  text-align: center;
+  color: white;
+}
+.align {
+  text-align: center;
+}
+img {
+  border-radius: 40px;
+  margin: 10px;
+}
+.align button {
+  background-color: blue;
+  width: 30%;
+}
